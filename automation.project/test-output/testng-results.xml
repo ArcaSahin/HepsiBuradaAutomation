@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45988" started-at="2021-03-29T03:26:05Z" finished-at="2021-03-29T03:26:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45988" started-at="2021-03-29T03:26:05Z" finished-at="2021-03-29T03:26:51Z">
+      <class name="com.hepsiburada.case1.tests.Case1_Test">
+        <test-method status="PASS" signature="BasePageNavigation()[pri:0, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="BasePageNavigation" duration-ms="10934" started-at="2021-03-29T06:26:05Z" finished-at="2021-03-29T06:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="gotoLoginPage()[pri:1, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="gotoLoginPage" duration-ms="2357" started-at="2021-03-29T06:26:16Z" finished-at="2021-03-29T06:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoLoginPage -->
+        <test-method status="PASS" signature="enterLoginInfo_gotoHomePage()[pri:2, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="enterLoginInfo_gotoHomePage" duration-ms="5826" started-at="2021-03-29T06:26:18Z" finished-at="2021-03-29T06:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLoginInfo_gotoHomePage -->
+        <test-method status="PASS" signature="verifyLogin()[pri:3, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="verifyLogin" duration-ms="6884" started-at="2021-03-29T06:26:24Z" finished-at="2021-03-29T06:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="searchProduct_addtoCart()[pri:4, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="searchProduct_addtoCart" duration-ms="11786" started-at="2021-03-29T06:26:31Z" finished-at="2021-03-29T06:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct_addtoCart -->
+        <test-method status="PASS" signature="gotoBasketPage()[pri:5, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="gotoBasketPage" duration-ms="3106" started-at="2021-03-29T06:26:42Z" finished-at="2021-03-29T06:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoBasketPage -->
+        <test-method status="PASS" signature="verifySelectedProduct()[pri:6, instance:com.hepsiburada.case1.tests.Case1_Test@523884b2]" name="verifySelectedProduct" duration-ms="5056" started-at="2021-03-29T06:26:46Z" finished-at="2021-03-29T06:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelectedProduct -->
+      </class> <!-- com.hepsiburada.case1.tests.Case1_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
